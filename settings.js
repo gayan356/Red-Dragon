@@ -11,8 +11,8 @@ global.APIKeys = {
 	'https://zenzapis.xyz': 'your key',
 }
 
-global.alivemsg = `📤I am alive now😇
-🤷‍♀️How can I help you?😉` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `📤I am alive now😇᭕͞𝐑𝐈𝐘𝐀𝐋⃚ˡᵒᵏᵘ᭕ᵏⁱⁿᵍ᪶𝙰𝙻𝙿𝙷𝙰🇱🇰❁͜͡
+🤷‍♀️How can I help you?😉 🇱🇰👿🌈♥️★𖡹ᵏⁱⁿᵍ᪶𝙰𝙻𝙿𝙷𝙰🤗𖡹𝙱𝚘𝚝𖡹★♥️🌈👿🇱🇰` //Costomize Alive Message (type your message in `` )
 
 
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -29,8 +29,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
-global.vcardowner = ['+380944814219'] // owner number
-global.ownername = "😎𝙆.𝙋𝙧𝙖𝙗𝙝𝙖𝙨𝙝𝙖❯❯" // owner name
+global.vcardowner = ['+94701655661'] // owner number
+global.ownername = "❤️✪𝐑𝐈𝐘𝐀𝐋 𝐋𝐎𝐊𝐔 𝐊𝐈𝐍𝐆 𝐀𝐋𝐏𝐇𝐀✪" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -44,19 +44,54 @@ global.antibad = "false" // To remove bad word senders
 global.antilink = "false" // To remove group link sharing peoples
 global.upsongvoice = "true" // bot can upload song as voice note (it use your data and storage bacause auto download) you can put "false" (anyone can't get songs as voice note / your data is not wasted)
 
-global.owner = ['+380944814219']
-global.ownertag = '+380944814219' //your tag number
-global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
+global.owner = ['+94701655661']
+global.ownertag = '+94701655661' //your tag number
+global.botname = '🇱🇰👿🌈♥️★𖡹ᵏⁱⁿᵍ᪶𝙰𝙻𝙿𝙷𝙰🤗𖡹𝙱𝚘𝚝𖡹★♥️🌈👿🇱🇰' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.author = "❤𝐐𝐔𝐄𝐄𝐍 𝐌𝐔𝐓𝐇𝐔 𝐊𝐈𝐍𝐆 𝐌𝐀𝐋𝐈𝐘𝐀❤️" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
+global.footer = '[ ◉ ᳆⃟🌎🥰ලෝ̵කෙ̬ම̶ ͢͢͢͢͢͢ල̵̬ස̶්̬ස̶න̶🥰🌸۞͢͠දෝ̶ණී̶    ͚͚͚̅̅͢හි̶̬න̶්ද̶ලු̶᳆⃟🥰🧚‍♂️ක̵තා̶ ͢͢͢͢͢͢වෙ̶න̶වා̶۞͢͠  ඇ̶හු̶නා̶🥰🥺  ͚͚͚̅̅͢➳̶̶💚 ⃝⃡ ❥͜͡⃞ᴸᵒᵛᵉ࿆࿆࿆♥
+
+         ඔබමයි මාගේ   ආදරේ මා හා....
+
+💚 ⃝⃡ ❥͜͡⃞ᴸᵒᵛᵉ࿆࿆࿆♥🌼ලොව ඇති තුරා 
+
+             පණසේ මාගේ.....
+
+💚 ⃝⃡ ❥͜͡⃞ᴸᵒᵛᵉ࿆࿆࿆♥🌼සැමදා තියේ 
+
+             බැඳි පෙම මාගේ...
+
+💚 ⃝⃡ ❥͜͡⃞ᴸᵒᵛᵉ࿆࿆࿆♥🌼සරනා තුරා 
+
+             හිස්ලුව ආයේ...
+
+💚 ⃝⃡ ❥͜͡⃞ᴸᵒᵛᵉ࿆࿆࿆♥🌼සරනයි සදා.......
+
+ඔබේ ආදරේ මා කුස ආවේ.....
+
+        🐰 ⃞⃕ꦿ🌸̶̱̱̱̱̱̄̄̄̄̄͟͞💜◆͟͞─ |─ᷞ─ͦ͢─ͮ─ͤ🖤✨☘️🌍 
+
+ලේ වල තියේ බැඳි අපේ සෙනේ...
+
+        🐰 ⃞⃕ꦿ🌸̶̱̱̱̱̱̄̄̄̄̄͟͞💜◆͟͞─ |─ᷞ─ͦ͢─ͮ─ͤ🖤✨☘️🌍 
+
+දෑසම මගේ තෙත් වේ... 
+
+        🐰 ⃞⃕ꦿ🌸̶̱̱̱̱̱̄̄̄̄̄͟͞💜◆͟͞─ |─ᷞ─ͦ͢─ͮ─ͤ🖤✨☘️🌍 
+
+තාමත් දැනේ හැමතැන මගේ.... 
+
+        🐰 ⃞⃕ꦿ
+	
+᳆⃞⃚ 🇱🇰༊𝑨𝑹𝑴𝒀❥ᶜᵒᵐᵐᵃⁿᵈᵒ࿇𝍪sᴀⷩɪⷶᴛᷱᴇᷞᴍⷶ᭕͞𝐑𝐈𝐘𝐀𝐋⃚ˡᵒᵏᵘ᭕ᵏⁱⁿᵍ᪶𝙰𝙻𝙿𝙷𝙰🇱🇰❁͜͡⍤⃝⃤
+' //
 
 global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://github.com/prabhasha2006' //Change Your Button's URL
 
 //database
-global.premium = ['+380944814219'] //ur premium numbers
+global.premium = ['+94701655661'] //ur premium numbers
 
 //other
 global.sessionName = 'session'
